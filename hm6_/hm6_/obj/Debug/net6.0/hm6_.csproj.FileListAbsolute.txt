@@ -1,0 +1,15 @@
+D:\прога 2 курс\hm6_\hm6_\bin\Debug\net6.0\hm6_.exe
+D:\прога 2 курс\hm6_\hm6_\bin\Debug\net6.0\hm6_.deps.json
+D:\прога 2 курс\hm6_\hm6_\bin\Debug\net6.0\hm6_.runtimeconfig.json
+D:\прога 2 курс\hm6_\hm6_\bin\Debug\net6.0\hm6_.dll
+D:\прога 2 курс\hm6_\hm6_\bin\Debug\net6.0\hm6_.pdb
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\hm6_.csproj.AssemblyReference.cache
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\hm6_.GeneratedMSBuildEditorConfig.editorconfig
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\hm6_.AssemblyInfoInputs.cache
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\hm6_.AssemblyInfo.cs
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\hm6_.csproj.CoreCompileInputs.cache
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\hm6_.dll
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\refint\hm6_.dll
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\hm6_.pdb
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\hm6_.genruntimeconfig.cache
+D:\прога 2 курс\hm6_\hm6_\obj\Debug\net6.0\ref\hm6_.dll
